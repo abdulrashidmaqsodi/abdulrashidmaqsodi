@@ -29,7 +29,7 @@ My Website: https://rashidmaqsodi.vercel.app/
 
 Email: abdulrashidmaqsodi@gmail.com
 
-LinkedIn: in/rashid-maqsodi-707079321
+LinkedIn: https://www.linkedin.com/in/rashid-maqsodi-707079321/
 
 
 
