@@ -9,6 +9,8 @@ tools and frameworks like React,NextJs and TailwindCSS.
 🔅 love to join a team for more experience
 
 🌱 Continuous progress and learning in the world of technology is an adventurous and exciting journey for me.
+
+ ## Technologies & Tools 🔧
 <!--
 
 -->
