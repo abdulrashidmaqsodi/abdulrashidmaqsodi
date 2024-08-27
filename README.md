@@ -1,5 +1,5 @@
 ## Hi there 👋👨🏻‍💻
-✍️Code is poetry; every line tells a story. 
+✍️ Code is poetry; every line tells a story. 
 
 <!--
 **abdulrashidmaqsodi/abdulrashidmaqsodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
