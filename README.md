@@ -11,6 +11,8 @@ tools and frameworks like React,NextJs and TailwindCSS.
 🌱 Continuous progress and learning in the world of technology is an adventurous and exciting journey for me.
 
  ## Technologies & Tools 🔧
+
+ HTML5 CSS3
 <!--
 
 -->
