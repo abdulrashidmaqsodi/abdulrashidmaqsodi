@@ -24,6 +24,12 @@ tools and frameworks like React,NextJs and TailwindCSS.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
  ## Get in Touch 📫
+
+My Website: https://rashidmaqsodi.vercel.app/
+
+GitHub: Your GitHub Profile
+LinkedIn: Your LinkedIn Profile
+
 <!--
 
 -->
