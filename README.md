@@ -35,7 +35,7 @@ LinkedIn: in/rashid-maqsodi-707079321
 
 
 
-## Thanks for visiting! 🙏🏻🌺
+## Thank you for visiting! 🙏🏻🌺
 
 <!--
 
