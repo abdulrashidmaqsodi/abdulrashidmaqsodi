@@ -27,7 +27,8 @@ tools and frameworks like React,NextJs and TailwindCSS.
 
 My Website: https://rashidmaqsodi.vercel.app/
 
-GitHub: Your GitHub Profile
+Email: abdulrashidmaqsodi@gmail.com
+
 LinkedIn: Your LinkedIn Profile
 
 <!--
